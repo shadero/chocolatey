@@ -1,0 +1,36 @@
+echo off
+cinst -y ^
+	7zip ^
+	adobe-creative-cloud ^
+	awscli ^
+	blender ^
+	bzeditor ^
+	cpu-z ^
+	crystaldiskinfo ^
+	discord ^
+	everything ^
+	ffmpeg ^
+	firefox ^
+	flac ^
+	foobar2000 ^
+	git ^
+	google-backup-and-sync ^
+	gpu-z ^
+	hwinfo ^
+	jetbrainstoolbox ^
+	keepassxc ^
+	microsoft-windows-terminal ^
+	mpc-hc ^
+	obs-studio ^
+	pandoc ^
+	powertoys ^
+	qbittorrent ^
+	steam ^
+	thunderbird ^
+	unity-hub ^
+	vscode ^
+	winscp ^
+	wsl2 ^
+	youtube-dl ^
+	hwmonitor ^
+pause
