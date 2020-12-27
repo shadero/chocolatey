@@ -7,6 +7,7 @@ cinst -y ^
 	bzeditor ^
 	cpu-z ^
 	crystaldiskinfo ^
+	cygwin ^
 	discord ^
 	everything ^
 	ffmpeg ^
